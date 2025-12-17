@@ -9,7 +9,7 @@ vim.opt.ignorecase = true
 vim.opt.signcolumn = 'yes'
 
 vim.pack.add({
-	{src = "https://github.com/ellisonleao/gruvbox.nvim"},
+	{src = "https://github.com/neanias/everforest-nvim"},
 	{src = "https://github.com/neovim/nvim-lspconfig"},
 	{src = "https://github.com/nvim-telescope/telescope.nvim"},
 	{src = "https://github.com/nvim-lua/plenary.nvim"},
@@ -19,7 +19,7 @@ vim.pack.add({
 	{src = "https://github.com/echasnovski/mini.nvim"},
 })
 
-vim.cmd("colorscheme gruvbox")
+vim.cmd("colorscheme everforest")
 
 require("mason").setup()
 require("mason-lspconfig").setup()
