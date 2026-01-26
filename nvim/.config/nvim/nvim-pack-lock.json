@@ -4,6 +4,14 @@
       "rev": "10f2ebe48849726608f79e21bc9eb89c567a22f3",
       "src": "https://github.com/Saghen/blink.cmp"
     },
+    "copilot-cmp": {
+      "rev": "15fc12af3d0109fa76b60b5cffa1373697e261d1",
+      "src": "https://github.com/zbirenbaum/copilot-cmp"
+    },
+    "copilot.lua": {
+      "rev": "2d7511494245129aa6c2176f9c71cc2bc1360ed9",
+      "src": "https://github.com/zbirenbaum/copilot.lua"
+    },
     "copilot.vim": {
       "rev": "da369d90cfd6c396b1d0ec259836a1c7222fb2ea",
       "src": "https://github.com/github/copilot.vim"
